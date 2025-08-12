@@ -28,7 +28,7 @@ body {
 .grid__imagens {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: 400px;
+  grid-template-rows: 300px;
   gap: 5px;
 }
 .grid__item {
